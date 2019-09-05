@@ -4,13 +4,13 @@ This repository mostly represents my journey of learning about maching learning 
 
 ### Finished
 
-* [BinaryTree](https://www.youtube.com/watch?v=ZNH0MuQ51m4) C# implementation of the binary tree algorithm
+* [BinaryTree](https://www.youtube.com/watch?v=ZNH0MuQ51m4) - C# implementation of the binary tree algorithm
+* ShakespeareGeneticAlgo - C# implementation of a genetic algorithm to guess a string of characters. Based on the shakespeare example from this [playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw4n02JP28QDuUdNi3EXxJ)
 
 ### Todos
 
 * A star path finding algorithm
 * Maze generation algorithm
-* Example genetic algorithm
 * The travelling sales person using a genetic algorithm
 
 License
