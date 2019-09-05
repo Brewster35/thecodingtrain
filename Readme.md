@@ -9,7 +9,7 @@ This repository mostly represents my journey of learning about maching learning 
 
 ### Todos
 
-* A star path finding algorithm
+* A\* path finding algorithm
 * Maze generation algorithm
 * The travelling sales person using a genetic algorithm
 
