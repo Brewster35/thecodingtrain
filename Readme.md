@@ -1,6 +1,6 @@
 ### YouTube channel "The Coding Train" examples in C#
 
-This repository mostly represents my journey of learning about maching learning from the coding train channel on YouTube. I am aiming to convert the example code into C#
+This repository mostly represents my journey of learning about machine learning from the coding train channel on YouTube. I am aiming to convert the example code into C#
 
 ### Finished
 
