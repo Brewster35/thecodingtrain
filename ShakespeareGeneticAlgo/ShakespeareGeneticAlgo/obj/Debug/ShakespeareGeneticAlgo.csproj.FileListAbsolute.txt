@@ -1,0 +1,9 @@
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.Form1.resources
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticAlgo.csproj.GenerateResource.cache
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\bin\Debug\ShakespeareGeneticAlgo.exe.config
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\bin\Debug\ShakespeareGeneticAlgo.exe
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\bin\Debug\ShakespeareGeneticAlgo.pdb
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticAlgo.Properties.Resources.resources
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticAlgo.exe
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticAlgo.pdb

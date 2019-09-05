@@ -1,0 +1,10 @@
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\bin\Debug\ShakespeareGeneticTest2.exe.config
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\bin\Debug\ShakespeareGeneticTest2.exe
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\bin\Debug\ShakespeareGeneticTest2.pdb
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.csprojAssemblyReference.cache
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.Properties.Resources.resources
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.csproj.GenerateResource.cache
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.csproj.CoreCompileInputs.cache
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.exe
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.pdb
+C:\Projects\ShakespeareGeneticTest2\ShakespeareGeneticTest2\obj\Debug\ShakespeareGeneticTest2.Form1.resources
