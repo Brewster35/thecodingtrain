@@ -7,4 +7,4 @@ This maze generator is based on the following coding train videos:
 * https://www.youtube.com/watch?v=8Ju_uxJ9v44
 * https://www.youtube.com/watch?v=_p5IH0L63wo
 
-![maze generator](https://github.com/Brewster35/thecodingtrain/MazeGenerator/mazegenerator.png)
+![maze generator](https://github.com/Brewster35/thecodingtrain/blob/master/MazeGenerator/mazegenerator.png)
