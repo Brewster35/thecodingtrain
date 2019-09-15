@@ -1,0 +1,10 @@
+C:\Projects\MazeGeneration\MazeGeneration\bin\Debug\MazeGeneration.exe.config
+C:\Projects\MazeGeneration\MazeGeneration\bin\Debug\MazeGeneration.exe
+C:\Projects\MazeGeneration\MazeGeneration\bin\Debug\MazeGeneration.pdb
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.csprojAssemblyReference.cache
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.Properties.Resources.resources
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.csproj.GenerateResource.cache
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.csproj.CoreCompileInputs.cache
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.exe
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.pdb
+C:\Projects\MazeGeneration\MazeGeneration\obj\Debug\MazeGeneration.Main.resources
