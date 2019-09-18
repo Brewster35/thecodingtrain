@@ -13,6 +13,10 @@ This repository mostly represents my journey of learning about machine learning 
 
 * A\* path finding algorithm
 * The travelling sales person using a genetic algorithm
+* Evolutionary steering behaviours
+* Gradient descent
+* Snake game
+* Chrome dinosaur game
 
 License
 ----
