@@ -11,6 +11,7 @@ This repository mostly represents my journey of learning about machine learning 
 * **AStarAlgo** - C# implementation of the A\* path finding algorithm. Based on the work from this [playlist](https://www.youtube.com/watch?v=Vc5fIuYk3Bw&list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb)
 * **Matrix** - C# implementation of Matrix digital rain animation based on this [guest tutorial](https://www.youtube.com/watch?v=S1TQCi9axzg)
 * **BarnsleyFern** - C# implementation of the barnsley fern animation based on this [coding challenge](https://www.youtube.com/watch?v=JFugGF1URNo)
+* **SnakeGame** - C# implementation of the snake game based on this [coding challenge](https://www.youtube.com/watch?v=OMoVcohRgZA)
 
 
 ### Todos
@@ -18,7 +19,6 @@ This repository mostly represents my journey of learning about machine learning 
 * The travelling sales person using a genetic algorithm
 * Evolutionary steering behaviours
 * Gradient descent
-* Snake game
 * Chrome dinosaur game
 
 License
